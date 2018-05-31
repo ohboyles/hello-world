@@ -1,2 +1,2 @@
 # hello-world
-this is the first repository i am making
+I am a college student who is trying to get familiar with github in anticipation of using it for a data science class next semester
